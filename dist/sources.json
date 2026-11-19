@@ -40,7 +40,7 @@
       "sites": 172,
       "type3": 150,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.9
+      "l2_pass_rate": 1.0
     },
     {
       "name": "qist-电视聚合",
@@ -123,50 +123,18 @@
       "l2_pass_rate": null
     },
     {
-      "name": "🚀无邪┃摸鱼线路",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc",
-      "sites": 111,
-      "type3": 111,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "🚀无邪┃摸鱼备用",
-      "url": "http://fish.y456y.com",
-      "sites": 111,
-      "type3": 111,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "y456y摸鱼镜像",
-      "url": "http://www.y456y.com",
-      "sites": 111,
-      "type3": 111,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "摸鱼儿top镜像",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
-      "sites": 111,
-      "type3": 111,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "🐟摸鱼接口 ┃ 4K极速 [1596ms]",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
-      "sites": 111,
-      "type3": 111,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
       "name": "摸鱼接口【apkck.top】",
       "url": "https://6800.kstore.vip/fish.json",
       "sites": 111,
       "type3": 111,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "💎无邪┃摸鱼线路",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc",
+      "sites": 109,
+      "type3": 109,
       "jar_kb": 64.0,
       "l2_pass_rate": null
     },
@@ -187,6 +155,14 @@
       "l2_pass_rate": 0.091
     },
     {
+      "name": "🚀5-Clun在线",
+      "url": "https://clun.top/box.json",
+      "sites": 101,
+      "type3": 73,
+      "jar_kb": 64.0,
+      "l2_pass_rate": 0.7
+    },
+    {
       "name": "cluntop-box聚合",
       "url": "https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
       "sites": 101,
@@ -195,16 +171,24 @@
       "l2_pass_rate": 0.65
     },
     {
-      "name": "🚀5-Clun在线",
-      "url": "https://clun.top/box.json",
-      "sites": 101,
-      "type3": 73,
+      "name": "🚀无邪┃王二小线路",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
+      "sites": 100,
+      "type3": 100,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.65
+      "l2_pass_rate": null
     },
     {
       "name": "🚀无邪┃王二小备用",
       "url": "https://9280.kstore.vip/newwex.json",
+      "sites": 100,
+      "type3": 100,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "放牛娃💜线路",
+      "url": "http://tv.999888987.xyz",
       "sites": 100,
       "type3": 100,
       "jar_kb": 64.0,
@@ -237,6 +221,14 @@
     {
       "name": "🚀王二小线 ┃ 综合推荐 [939ms]",
       "url": "http://new.xn--4kq62z5rby2qupq9ub.top/",
+      "sites": 100,
+      "type3": 100,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "王二小备",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
       "sites": 100,
       "type3": 100,
       "jar_kb": 64.0,
@@ -283,20 +275,12 @@
       "l2_pass_rate": null
     },
     {
-      "name": "kstore8815-wmz接口",
-      "url": "https://8815.kstore.vip/tvbox/wmz",
-      "sites": 94,
-      "type3": 94,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
       "name": "chitue-dongli聚合",
       "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 1.0
     },
     {
       "name": "kstore16151线路",
@@ -304,7 +288,7 @@
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 1.0
     },
     {
       "name": "东篱接口【apkck.top】",
@@ -312,7 +296,7 @@
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 1.0
     },
     {
       "name": "🚀游魂┃东篱",
@@ -320,7 +304,7 @@
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 1.0
     },
     {
       "name": "🚀东篱线路 [在线]",
@@ -328,7 +312,7 @@
       "sites": 93,
       "type3": 89,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.75
+      "l2_pass_rate": 1.0
     },
     {
       "name": "kstore9763-aowu",
@@ -353,6 +337,14 @@
       "type3": 75,
       "jar_kb": 25.3,
       "l2_pass_rate": 1.0
+    },
+    {
+      "name": "🚀游魂┃PG线路",
+      "url": "https://www.iyouhun.com/tv/pg",
+      "sites": 74,
+      "type3": 68,
+      "jar_kb": 64.0,
+      "l2_pass_rate": 0.167
     },
     {
       "name": "⚪PG⚪",
@@ -416,7 +408,15 @@
       "sites": 43,
       "type3": 39,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.5
+      "l2_pass_rate": 0.75
+    },
+    {
+      "name": "🚀游魂┃真心线路",
+      "url": "https://www.iyouhun.com/tv/zx",
+      "sites": 43,
+      "type3": 39,
+      "jar_kb": 64.0,
+      "l2_pass_rate": 0.75
     },
     {
       "name": "菜妮丝💜线路",
