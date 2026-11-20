@@ -31,7 +31,7 @@
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "sites": 298,
       "type3": 298,
-      "jar_kb": 63.1,
+      "jar_kb": 64.0,
       "l2_pass_rate": null
     },
     {
@@ -91,6 +91,14 @@
       "l2_pass_rate": null
     },
     {
+      "name": "🐯小虎斑线路",
+      "url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
+      "sites": 134,
+      "type3": 132,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
       "name": "XYQ 接口【apkck.top】",
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
       "sites": 124,
@@ -101,8 +109,8 @@
     {
       "name": "潇洒",
       "url": "https://9877.kstore.space/sun.json",
-      "sites": 117,
-      "type3": 117,
+      "sites": 119,
+      "type3": 119,
       "jar_kb": 64.0,
       "l2_pass_rate": null
     },
@@ -131,8 +139,40 @@
       "l2_pass_rate": null
     },
     {
-      "name": "💎无邪┃摸鱼线路",
+      "name": "🚀无邪┃摸鱼线路",
       "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc",
+      "sites": 109,
+      "type3": 109,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "🚀无邪┃摸鱼备用",
+      "url": "http://fish.y456y.com",
+      "sites": 109,
+      "type3": 109,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "y456y摸鱼镜像",
+      "url": "http://www.y456y.com",
+      "sites": 109,
+      "type3": 109,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "摸鱼儿top镜像",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
+      "sites": 109,
+      "type3": 109,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "🐟摸鱼接口 ┃ 4K极速 [1596ms]",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
       "sites": 109,
       "type3": 109,
       "jar_kb": 64.0,
@@ -155,20 +195,20 @@
       "l2_pass_rate": 0.091
     },
     {
-      "name": "🚀5-Clun在线",
-      "url": "https://clun.top/box.json",
+      "name": "cluntop-box聚合",
+      "url": "https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
       "sites": 101,
       "type3": 73,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.7
     },
     {
-      "name": "cluntop-box聚合",
-      "url": "https://raw.githubusercontent.com/cluntop/tvbox/main/box.json",
+      "name": "🚀5-Clun在线",
+      "url": "https://clun.top/box.json",
       "sites": 101,
       "type3": 73,
       "jar_kb": 64.0,
-      "l2_pass_rate": 0.65
+      "l2_pass_rate": 0.7
     },
     {
       "name": "🚀无邪┃王二小线路",
@@ -251,30 +291,6 @@
       "l2_pass_rate": null
     },
     {
-      "name": "🚀游魂┃王二小(新)",
-      "url": "https://www.iyouhun.com/tv/newwex",
-      "sites": 100,
-      "type3": 100,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "叙白王二小支持弹幕",
-      "url": "https://www.ls660.com/TV/wangxiaoer.json",
-      "sites": 98,
-      "type3": 98,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "youhunwl-王二小",
-      "url": "https://raw.githubusercontent.com/youhunwl/TVBox/master/%E7%8E%8B%E4%BA%8C%E5%B0%8F.txt",
-      "sites": 96,
-      "type3": 96,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
       "name": "chitue-dongli聚合",
       "url": "https://raw.githubusercontent.com/chitue/dongliTV/main/api.json",
       "sites": 93,
@@ -313,22 +329,6 @@
       "type3": 89,
       "jar_kb": 64.0,
       "l2_pass_rate": 1.0
-    },
-    {
-      "name": "kstore9763-aowu",
-      "url": "https://9763.kstore.vip/aowu.json",
-      "sites": 82,
-      "type3": 82,
-      "jar_kb": 22.2,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "英格里希嗷呜TV",
-      "url": "http://www.xn--nsr30bl8nb2kyt7a8vs.top/tv",
-      "sites": 82,
-      "type3": 82,
-      "jar_kb": 22.2,
-      "l2_pass_rate": null
     },
     {
       "name": "kimwang1978-OK单仓",
