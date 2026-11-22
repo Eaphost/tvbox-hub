@@ -31,7 +31,7 @@
       "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
       "sites": 298,
       "type3": 298,
-      "jar_kb": 64.0,
+      "jar_kb": 63.1,
       "l2_pass_rate": null
     },
     {
@@ -45,16 +45,16 @@
     {
       "name": "qist-电视聚合",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/dianshi.json",
-      "sites": 166,
-      "type3": 151,
+      "sites": 163,
+      "type3": 148,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.733
     },
     {
       "name": "🌱道长线路 ┃ DRPY旗舰 [226ms]",
       "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
-      "sites": 165,
-      "type3": 150,
+      "sites": 162,
+      "type3": 147,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.733
     },
@@ -83,6 +83,14 @@
       "l2_pass_rate": 0.65
     },
     {
+      "name": "🐯小虎斑线路",
+      "url": "http://hb.xn--yet24tmq1a.site:25252/%E4%BB%85%E4%BE%9B%E6%B5%8B%E8%AF%95",
+      "sites": 136,
+      "type3": 134,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
       "name": "📺EasyTV ┃ 熵侦精选 [291ms]",
       "url": "https://15318.kstore.space/easytv.jpg",
       "sites": 135,
@@ -99,24 +107,24 @@
       "l2_pass_rate": 0.625
     },
     {
+      "name": "潇洒",
+      "url": "https://9877.kstore.space/sun.json",
+      "sites": 116,
+      "type3": 116,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
       "name": "🚀游魂┃潇洒线路",
       "url": "https://www.iyouhun.com/tv/xs",
-      "sites": 119,
-      "type3": 119,
+      "sites": 116,
+      "type3": 116,
       "jar_kb": 64.0,
       "l2_pass_rate": null
     },
     {
       "name": "🌟潇洒线路 ┃ 优质备用 [564ms]",
       "url": "https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json",
-      "sites": 119,
-      "type3": 119,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "潇洒",
-      "url": "https://9877.kstore.space/sun.json",
       "sites": 116,
       "type3": 116,
       "jar_kb": 64.0,
@@ -131,16 +139,16 @@
       "l2_pass_rate": null
     },
     {
-      "name": "🚀无邪┃摸鱼备用",
-      "url": "http://fish.y456y.com",
+      "name": "🚀无邪┃摸鱼线路",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc",
       "sites": 109,
       "type3": 109,
       "jar_kb": 64.0,
       "l2_pass_rate": null
     },
     {
-      "name": "💎无邪┃摸鱼线路",
-      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.cc",
+      "name": "🚀无邪┃摸鱼备用",
+      "url": "http://fish.y456y.com",
       "sites": 109,
       "type3": 109,
       "jar_kb": 64.0,
@@ -156,6 +164,14 @@
     },
     {
       "name": "摸鱼儿top镜像",
+      "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
+      "sites": 109,
+      "type3": 109,
+      "jar_kb": 64.0,
+      "l2_pass_rate": null
+    },
+    {
+      "name": "🐟摸鱼接口 ┃ 4K极速 [1596ms]",
       "url": "http://xn--ihqu10cn4c.xn--v4q818bf34b.top",
       "sites": 109,
       "type3": 109,
@@ -271,30 +287,6 @@
       "url": "https://d.kstore.dev/download/9280/wex.json",
       "sites": 100,
       "type3": 100,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "🚀游魂┃王二小(新)",
-      "url": "https://www.iyouhun.com/tv/newwex",
-      "sites": 100,
-      "type3": 100,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "叙白王二小支持弹幕",
-      "url": "https://www.ls660.com/TV/wangxiaoer.json",
-      "sites": 98,
-      "type3": 98,
-      "jar_kb": 64.0,
-      "l2_pass_rate": null
-    },
-    {
-      "name": "youhunwl-王二小",
-      "url": "https://raw.githubusercontent.com/youhunwl/TVBox/master/%E7%8E%8B%E4%BA%8C%E5%B0%8F.txt",
-      "sites": 96,
-      "type3": 96,
       "jar_kb": 64.0,
       "l2_pass_rate": null
     },
@@ -465,6 +457,14 @@
       "type3": 27,
       "jar_kb": 64.0,
       "l2_pass_rate": 0.667
+    },
+    {
+      "name": "二月红",
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+      "sites": 31,
+      "type3": 30,
+      "jar_kb": 64.0,
+      "l2_pass_rate": 1.0
     },
     {
       "name": "茄子接口【apkck.top】",
